@@ -114,7 +114,3 @@ fleets, inference/K8s, and cloud adapters expand from there.
 ## Status
 
 Early development. See [ROADMAP.md](ROADMAP.md) for phases.
-
----
-
-Part of the **CRODE** family · [crode.net](https://crode.net) · 🐇
